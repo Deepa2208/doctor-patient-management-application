@@ -1,6 +1,8 @@
 # dpm
 
-A new Flutter project.
+ Dpm is an application for both doctors and patients , it helps doctors to keep track of patients
+
+ 
 
 ## Getting Started
 
